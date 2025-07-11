@@ -2,3 +2,5 @@ layout: default
 title: Christians Garden
 description: To be continued!
 url: https://theinfinitycyber.github.io/website/
+nav_enabled: true
+search_enabled: true
